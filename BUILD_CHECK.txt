@@ -1,0 +1,10 @@
+ENDGAME 4DX RELAY WATCHER V4-CACHEBUST
+
+[OK] cache bust config
+[OK] unique cb param
+[OK] random 5-7 retained
+[OK] increase-only alert retained
+[OK] 429 backoff retained
+[OK] relay retained
+[OK] cache diagnostics
+[OK] node --check app.mjs
